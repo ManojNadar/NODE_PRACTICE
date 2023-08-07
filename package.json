@@ -1,0 +1,25 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojNadar/NODE_PRACTICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojNadar/NODE_PRACTICE/issues"
+  },
+  "homepage": "https://github.com/ManojNadar/NODE_PRACTICE#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "type":"module"
+}
